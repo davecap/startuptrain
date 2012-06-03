@@ -1,0 +1,13 @@
+archive/
+build/
+*.pid
+*.log
+*.pyc
+*.swp
+*~
+*.cache
+*#*
+*.DS_Store
+pip-log.txt
+env
+*.db
